@@ -1,0 +1,30 @@
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\bin\Debug\net8.0\1201230031_tpmodul4.exe
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\bin\Debug\net8.0\1201230031_tpmodul4.deps.json
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\bin\Debug\net8.0\1201230031_tpmodul4.runtimeconfig.json
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\bin\Debug\net8.0\1201230031_tpmodul4.dll
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\bin\Debug\net8.0\1201230031_tpmodul4.pdb
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.AssemblyInfoInputs.cache
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.AssemblyInfo.cs
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.csproj.CoreCompileInputs.cache
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.sourcelink.json
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.dll
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\refint\1201230031_tpmodul4.dll
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.pdb
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.genruntimeconfig.cache
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\KonstruksiPerangkatLunak-06\1201230031_Hakim\Week3\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\ref\1201230031_tpmodul4.dll
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\bin\Debug\net8.0\1201230031_tpmodul4.exe
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\bin\Debug\net8.0\1201230031_tpmodul4.deps.json
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\bin\Debug\net8.0\1201230031_tpmodul4.runtimeconfig.json
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\bin\Debug\net8.0\1201230031_tpmodul4.dll
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\bin\Debug\net8.0\1201230031_tpmodul4.pdb
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.AssemblyInfoInputs.cache
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.AssemblyInfo.cs
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.csproj.CoreCompileInputs.cache
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.sourcelink.json
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.dll
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\refint\1201230031_tpmodul4.dll
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.pdb
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\1201230031_tpmodul4.genruntimeconfig.cache
+C:\Users\HAKIM AL BAIHAQY\Documents\SEMESTER 4\Konstrusi PL\1201230031_tpmodul4\1201230031_tpmodul4\obj\Debug\net8.0\ref\1201230031_tpmodul4.dll
